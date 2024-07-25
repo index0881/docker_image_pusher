@@ -1,4 +1,4 @@
 rustdesk/rustdesk-server:latest
 docker.io/kubernetesui/metrics-scraper:v1.0.8
-
+docker.io/kubernetesui/dashboard:v2.7.0
 
