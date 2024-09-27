@@ -4,3 +4,7 @@ docker.io/kubernetesui/dashboard:v2.7.0
 registry.k8s.io/metrics-server/metrics-server:v0.7.1
 registry.k8s.io/metrics-server/metrics-server:v0.7.1@sha256:db3800085a0957083930c3932b17580eec652cfb6156a05c0f79c7543e80d17a
 mysql:latest
+ghcr.io/immich-app/immich-machine-learning:latest
+ghcr.io/immich-app/immich-server:latest
+docker.io/redis:6.2-alpine@sha256:d6c2911ac51b289db208767581a5d154544f2b2fe4914ea5056443f62dc6e900
+docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
